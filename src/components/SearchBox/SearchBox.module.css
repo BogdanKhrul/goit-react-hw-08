@@ -1,0 +1,21 @@
+.form_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.form_txt {
+  margin-bottom: 8px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.search_field {
+  width: 300px;
+  height: 44px;
+  font-size: 20px;
+  border: 2px solid black;
+  border-radius: 4px;
+}

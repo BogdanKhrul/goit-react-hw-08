@@ -1,0 +1,35 @@
+.box {
+  display: flex;
+  border: 2px solid #000000;
+  padding: 8px;
+  align-items: center;
+  margin-bottom: 14px;
+  justify-content: space-between;
+  border-radius: 4px;
+}
+
+.del_btn {
+  border: 2px solid #000000;
+  font-size: 18px;
+  background-color: white;
+  border-radius: 8px;
+  padding: 8px 40px;
+  transition: all 150ms;
+  cursor: pointer;
+}
+
+.del_btn:hover {
+  background-color: tomato;
+}
+
+.contactBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contactIcon {
+  color: #000000;
+  text-align: left;
+  font-size: 20px;
+}

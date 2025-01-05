@@ -1,0 +1,14 @@
+.navigation {
+  display: flex;
+  margin-right: 78%;
+}
+
+.home_btn {
+  font-size: 24px;
+  color: rgb(0, 0, 0);
+  margin-right: 100%;
+}
+
+.home_btn:hover {
+  color: rgb(255, 0, 0);
+}

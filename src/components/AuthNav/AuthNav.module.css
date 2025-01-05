@@ -1,0 +1,14 @@
+.header_nav_one,
+.header_nav_two {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+}
+
+.header_nav_one:hover,
+.header_nav_two:hover {
+  color: rgb(255, 0, 0);
+}
+
+.header_nav_two {
+  margin-left: 24px;
+}
